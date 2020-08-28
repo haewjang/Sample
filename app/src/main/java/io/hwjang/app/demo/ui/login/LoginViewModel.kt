@@ -14,6 +14,7 @@ class LoginViewModel : ViewModel() {
 
     fun login(){
         // login 1
+        // login 2
 
     }
 
