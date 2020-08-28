@@ -14,6 +14,7 @@ class HomeViewModel : ViewModel() {
         // test 2
         // test 3
         // test 4
+        // test 5
     }
     val text: LiveData<String> = _text
 }
