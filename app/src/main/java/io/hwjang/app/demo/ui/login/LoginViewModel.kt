@@ -1,9 +1,14 @@
 package io.hwjang.app.demo.ui.login
-class LoginViewModel  {
 
+import androidx.lifecycle.ViewModel
 
-    fun getData(){
+class LoginViewModel : ViewModel() {
+
+    init {
 
     }
 
+    fun load(){
+
+    }
 }
