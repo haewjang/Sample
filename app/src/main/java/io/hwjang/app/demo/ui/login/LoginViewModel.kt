@@ -15,4 +15,8 @@ class LoginViewModel : ViewModel() {
     fun login(){
 
     }
+
+    fun getData(){
+
+    }
 }
