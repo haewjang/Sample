@@ -15,4 +15,10 @@ class LoginViewModel : ViewModel() {
     fun getData(){
 
     }
+
+    fun login(){
+        // login 1
+        // login 2
+
+    }
 }
