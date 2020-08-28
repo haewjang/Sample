@@ -21,6 +21,4 @@ class LoginViewModel : ViewModel() {
         // login 2
 
     }
-
-
 }
