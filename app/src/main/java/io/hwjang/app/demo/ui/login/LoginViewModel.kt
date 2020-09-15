@@ -4,5 +4,21 @@ import androidx.lifecycle.ViewModel
 
 class LoginViewModel : ViewModel() {
 
+    init {
 
+    }
+
+    fun load(){
+
+    }
+
+    fun getData(){
+
+    }
+
+    fun login(){
+        // login 1
+        // login 2
+
+    }
 }

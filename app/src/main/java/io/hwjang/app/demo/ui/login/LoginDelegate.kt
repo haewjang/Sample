@@ -1,9 +1,20 @@
 package io.hwjang.app.demo.ui.login
 
 
-class LoginDelegate {
+fun f1() {
 
-    //1
-    //2
+}
+
+
+fun f2() {
+
+}
+
+fun f3() {
+
+}
+
+
+fun f4(){
 
 }
