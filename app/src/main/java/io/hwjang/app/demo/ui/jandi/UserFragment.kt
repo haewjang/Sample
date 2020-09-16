@@ -8,4 +8,18 @@ class UserFragment {
         list.toMutableList()
     }
 
+
+
+    fun job1(){
+
+    }
+
+    fun job2(){
+
+    }
+
+    fun job3(){
+
+    }
+
 }
