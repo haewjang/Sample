@@ -13,5 +13,8 @@ class UserFragment {
 
     }
 
+    fun job2(){
+
+    }
 
 }
