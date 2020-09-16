@@ -9,11 +9,16 @@ class UserFragment {
     }
 
 
+
     fun job1(){
 
     }
 
     fun job2(){
+
+    }
+
+    fun job3(){
 
     }
 
